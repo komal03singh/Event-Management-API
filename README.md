@@ -181,9 +181,7 @@ DELETE /api/eventRegistration/cancelRegistration/7
     "success": true
 }
 ```
-**👤 Author**
-```
-## 👩‍💻 Author
+**👩‍💻 Author**
 - Komal
 - [GitHub Profile](https://github.com/komal03singh)
 
